@@ -57,7 +57,7 @@
          <img src="https://media.discordapp.net/attachments/894709973039341618/915315483480313886/ezgif-4-dc07725f4e61.gif" width="2000"> 
          </a>
 
-🔎 From [@4po](https://github.com/00dolla)
-🔎 Instagram [@menaceApo](https://www.instagram.com/00dolla/)
+🔎 From [@00dolla](https://github.com/00dolla)
+🔎 Instagram [@d0lla](https://www.instagram.com/00dolla/)
 🔎 Discord [@Dolla#0404](https://discord.gg/apo/)
 🔎 APOMEDIACENTER [@Github](https://github.com/apomediacenter/)
