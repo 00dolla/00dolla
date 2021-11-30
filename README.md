@@ -4,10 +4,10 @@
 
 </p>
 
-<h1 align="center">🌌</h1>
+<h1 align="center">🏴‍☠️</h1>
 <p align="center">
-  <b>Leonhart, 19y Offensive Security/ Web Integrator</b><br>
-  <a href="https://telegram.me/username">Telegram</a>
+  <b>D0lla, 18y Ynov Student</b><br>
+  <a href="https://telegram.me/d0lla">Telegram</a>
   <br></br>
 
 
@@ -18,16 +18,16 @@
 ─────────────────────────────────────
 </p>
 
-![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=4po&show_icons=true&theme=react)
+![00dolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=00dolla&show_icons=true&theme=react)
 
 
 
-<a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po?color=020202&label=FOLLOWERS&style=for-the-badge">
+<a href="https://github.com/00dolla">
+  <img src="https://img.shields.io/github/followers/00dolla?color=020202&label=FOLLOWERS&style=for-the-badge">
 </a>
 
-<a href="https://discord.gg/Crytek">
-         <img src="https://img.shields.io/website?color=020202&down_color=Crytek&down_message=Crytek&label=DISCORD&logo=Crytek&logoColor=black&style=for-the-badge&up_color=Crytek&up_message=DISCORD.GG%2FCrytek&url=https%3A%2F%2Fdiscord.gg%Crytek">
+<a href="https://discord.gg/apo">
+         <img src="https://img.shields.io/website?color=020202&down_color=Crytek&down_message=apo&label=DISCORD&logo=apo&logoColor=black&style=for-the-badge&up_color=apo&up_message=DISCORD.GG%2Fapo&url=https%3A%2F%2Fdiscord.gg%apo">
          </a>
 
 
@@ -36,7 +36,7 @@
 
 
 
-<a href="https://discord.gg/Crytek">
+<a href="https://discord.gg/apo">
    <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=020202">
 </a>
 
@@ -44,12 +44,12 @@
 
 
 <p align="center">
-   <a href="https://discord.gg/Crytek">
+   <a href="https://discord.gg/apo">
          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Animated-Flag-Russia_2.gif" width="78"> 
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/Crytek">
+         <a href="https://discord.gg/apo">
          <img src="https://i.imgur.com/j10rPzN.png" width="550>
          </a>
       
@@ -57,11 +57,11 @@
 <!-- Place this tag where you want the button to render. -->
 
 <p align="center">
-         <a href="https://discord.gg/Crytek">
+         <a href="https://discord.gg/apo">
          <img src="https://i.imgur.com/BPYbwx2.gif" width="2000"> 
          </a>
 
-🔎 From [@4po](https://github.com/4po)
-🔎 Instagram [@menaceApo](https://www.instagram.com/menaceapo/)
-🔎 Discord [@apo#0001](https://discord.gg/Crytek/)
-🔎 Crytek [@Github](https://github.com/cryteKgroup/)
+🔎 From [@4po](https://github.com/00dolla)
+🔎 Instagram [@menaceApo](https://www.instagram.com/00dolla/)
+🔎 Discord [@Dolla#0404](https://discord.gg/apo/)
+🔎 APOMEDIACENTER [@Github](https://github.com/apomediacenter/)
