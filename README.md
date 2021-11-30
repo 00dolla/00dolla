@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/aOeNsDD.gif" width="2000"> 
+<p align="center"><img src="https://media.discordapp.net/attachments/894709973039341618/915313619942637588/TAMERELAPUTE.gif" width="2000"> 
 
 <p align="center">
 
