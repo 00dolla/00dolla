@@ -54,7 +54,7 @@
 
 <p align="center">
          <a href="https://discord.gg/apo">
-         <img src="https://media.discordapp.net/attachments/894709973039341618/915315291897069578/fqfqzqqfq.gif" width="2000"> 
+         <img src="https://media.discordapp.net/attachments/894709973039341618/915315483480313886/ezgif-4-dc07725f4e61.gif" width="2000"> 
          </a>
 
 🔎 From [@4po](https://github.com/00dolla)
