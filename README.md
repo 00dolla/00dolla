@@ -48,17 +48,13 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" width="78"> 
 </p>
 
-<p align="center">
-         <a href="https://discord.gg/apo">
-         <img src="https://i.imgur.com/j10rPzN.png" width="550>
-         </a>
-      
 
+     
 <!-- Place this tag where you want the button to render. -->
 
 <p align="center">
          <a href="https://discord.gg/apo">
-         <img src="https://i.imgur.com/BPYbwx2.gif" width="2000"> 
+         <img src="https://media.discordapp.net/attachments/894709973039341618/915315291897069578/fqfqzqqfq.gif" width="2000"> 
          </a>
 
 🔎 From [@4po](https://github.com/00dolla)
