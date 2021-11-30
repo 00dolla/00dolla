@@ -18,7 +18,7 @@
 ─────────────────────────────────────
 </p>
 
-![00dolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=00dolla&show_icons=true&theme=react)
+![00dolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=00dolla&show_icons=true&theme=midnight-purple)
 
 
 
